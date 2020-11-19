@@ -7,8 +7,8 @@ by Jack Seagrist
 
 ## Files
 
-**bold CEE263C Final Paper - Jack Seagrist** - Final report
+**CEE263C Final Paper - Jack Seagrist** - Final report
 
-**bold CEE263C_Final** - Jupyter notebook containing the data analysis. Details of analysis described in the methods section of the final report.
+**CEE263C_Final** - Jupyter notebook containing the data analysis. Details of analysis described in the methods section of the final report.
 
-**bold NOAA_2018_north_all** - Climate data collected from NOAA's GFS model (Link: https://coastwatch.pfeg.noaa.gov/erddap/griddap/NCEP_Global_Best.html)
+**NOAA_2018_north_all** - Climate data collected from NOAA's GFS model (Link: https://coastwatch.pfeg.noaa.gov/erddap/griddap/NCEP_Global_Best.html)
